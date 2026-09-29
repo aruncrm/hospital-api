@@ -1,0 +1,5 @@
+patients.db
+DB Browser for SQLite.exe
+__pycache__/
+*.pyc
+.env
